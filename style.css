@@ -1,5 +1,52 @@
 body {
   width: 100%;
   height: 100%;
-  margin: 0;
+  margin: auto;
+}
+
+header {
+  
+  text-align: center;
+}
+.center {
+  
+  margin-left: auto;
+  margin-right: auto;
+  width: 99%;
+}
+
+nav{
+  padding: 10px;
+  background-color: rgb(243, 163, 236);
+  text-decoration-color: aquamarine
+  ;
+}
+
+figcaption{
+  display: block;
+  font-size: 14px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+section#featured-property {
+  
+  width: 800px;
+  text-align: center;
+  margin-left: auto;
+  margin-right:auto;
+  line-height: 20px;
+
+}
+
+div {
+  background-color: pink;
+  text-align: center;
+  float: left;
+  margin-left: auto;
+  margin-right: auto;
+  margin: auto;
+  width: 25%;
+
 }
